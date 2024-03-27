@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#000000",
+    "background_color" : "#ffffff",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA/",
+    "short_name" : "headphones",
+    "description" : "pwa",
+    "name" : "headphones app",
+    "icons": [
+        {
+            "src": "./public/172563_headphones_music_icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+    }
